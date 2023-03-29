@@ -1,0 +1,14 @@
+---
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  name: cztest03292308
+  tags: []
+  description: cztest03292308
+  annotations:
+    github.com/project-slug: chriszacny/cztest03292308
+
+spec:
+  type: service
+  owner: group:cedi
+  lifecycle: experimental
